@@ -1,6 +1,6 @@
 # trentose-memory
 A simulation exam for the students of Software Engineering II - UNITN
 
-*Matricola* : Your student ID
+*Matricola* : 164782
 
-*Nome*      : Your name surname
+*Nome*      : Marco Pernpruner
