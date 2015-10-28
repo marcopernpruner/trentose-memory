@@ -37,7 +37,7 @@ $(document).ready(function(){
             }
         }
 
-        if (count == 11) {
+        if (count == (data.length+1)) {
             alert("You win!");
         }
     });
