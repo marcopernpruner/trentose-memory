@@ -32,13 +32,13 @@ $(document).ready(function(){
                 count++;
             } else {
                 $(".cards li").removeClass("hidden");
-                alert("You lose!");
+                alert("You lost!");
                 count = 1;
             }
         }
 
         if (count == (data.length+1)) {
-            alert("You win!");
+            alert("You won!");
         }
     });
 
